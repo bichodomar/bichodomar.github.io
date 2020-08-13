@@ -20,10 +20,6 @@ nav {
 	position: sticky;
 	top: 0;
 	padding: 15px 50px;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: Wremena;
-	color: black;
 }
 
 ul {
@@ -45,6 +41,10 @@ a {
 .dropdown {
   position: relative;
   display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Wremena;
+  color: black;
 }
 
 .dropdown-content {
