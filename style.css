@@ -30,6 +30,11 @@ a {
 	color: black;
 }
 
+.dropdown {
+  	position: relative;
+  	display: inline-block;
+}
+
 .music {
 	background-color: #F19A3E;
 	width: 100%;
