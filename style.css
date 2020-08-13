@@ -35,6 +35,15 @@ a {
   	display: inline-block;
 }
 
+.drp {
+	cursor: pointer;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Wremena;
+	color: black;
+	padding: 0 10px;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
