@@ -20,6 +20,10 @@ nav {
 	position: sticky;
 	top: 0;
 	padding: 15px 50px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Wremena;
+	color: black;
 }
 
 ul {
@@ -30,11 +34,6 @@ ul {
 li {
 	display: inline-block;
 	padding: 0 10px;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: Wremena;
-	color: black;
-}
 
 a {
 	text-decoration: none;
